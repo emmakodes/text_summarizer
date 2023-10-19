@@ -28,7 +28,7 @@ This app enables users to input a text and Openai llm and langchain will generat
   run the following command in the terminal to initialize and run the app:
 
 
-`reflex init`
+  `reflex init`
 
-`reflex run`
+  `reflex run`
 
