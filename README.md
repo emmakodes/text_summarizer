@@ -32,3 +32,5 @@ This app enables users to input a text and Openai llm and langchain will generat
 
   `reflex run`
 
+<br>
+You can read the article where I explained how I built the app: [Build a Text Summarization app using Reflex (Pure Python)](https://dev.to/emmakodes_/build-a-text-summarization-app-using-reflex-pure-python-1a94)
